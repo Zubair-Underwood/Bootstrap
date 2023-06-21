@@ -1,11 +1,11 @@
-.main-container{
+.cbox{
 
-    height:350px;
-    background: blue;
+    border: 3px solid;
+    height:500px;
 }
 
-.sec-container{
+.dbox{
 
-    height:50px;
-    background-color: red;
+    height:30px;
+    border:2px solid blue;
 }
