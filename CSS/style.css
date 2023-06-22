@@ -1,45 +1,9 @@
-.cbox {
+.cobx{
 
     border: 5px solid;
 }
 
-.arow {
+.arow{
 
     border: 10px solid yellow;
-}
-
-.adiv {
-
-    height: 60px;
-    background: red;
-}
-
-.bdiv {
-
-    height: 60px;
-    background-color: gray;
-}
-
-.cdiv {
-
-    height: 60px;
-    background-color: chocolate;
-}
-
-.ddiv {
-
-    height: 60px;
-    background: fuchsia;
-}
-
-.ediv{
-
-    height:60px;
-    background: green;
-}
-
-.fdiv {
-
-    height: 60px;
-    background: blue;
 }
