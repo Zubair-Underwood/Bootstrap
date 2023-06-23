@@ -1,9 +1,36 @@
-.cobx{
+.cbox{
 
-    border: 5px solid;
+    border: 5px solid ;
 }
 
 .arow{
 
     border: 10px solid yellow;
+}
+
+.adiv{
+    height:60px;
+    background: red;
+}
+
+.bdiv{
+
+    height:60px;
+    background: gray;
+}
+
+.cdiv{
+
+    height:60px;
+    background: chocolate;
+}
+
+.ddiv{
+    height:60px;
+    background: green;
+}
+
+.ediv{
+    height:60px;
+    background: green;
 }
