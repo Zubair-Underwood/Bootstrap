@@ -3,7 +3,28 @@
     border: 5px solid ;
 }
 
-.arow{
+.bcol{
+
+    border: 3px solid red;
+}
+
+.ccol{
+
+    border: 3px solid blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* .arow{
 
     border: 10px solid yellow;
 }
@@ -33,4 +54,4 @@
 .ediv{
     height:60px;
     background: green;
-}
+} */
